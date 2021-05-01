@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Teddy1405
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Theodore Lau.
+- 👀 I’m interested in gaining experience in the field as an intern or in a part-time position.
+- 🌱 I’m currently learning going through the ropes as a computer science undergraduate at UCLA.
+- 💞️ I’m looking to collaborate on software and back-end development.
+- 📫 You can reach me through [my email](tlau0002@gmail.com), [texting me](+1(818)602-1118), or [adding me on discord](RuralBrick#0258).
 
 [Acclaim](https://www.youracclaim.com/users/theodore-lau)
 
